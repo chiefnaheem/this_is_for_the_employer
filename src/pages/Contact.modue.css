@@ -1,0 +1,24 @@
+#contact-cover {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.7)),
+      url("https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fkathycaprino%2Ffiles%2F2018%2F10%2FiStock-504987926-1200x800.jpg")
+        no-repeat center;
+    background-size: cover;
+  }
+  #address-box {
+    border: 1px solid var(--primary);
+    border-radius: 6px;
+    padding: 3rem 1rem 1rem 2rem;
+    position: relative;
+    margin-top: 60px;
+  }
+  #address-box-icon {
+    position: absolute;
+    border: 1px solid var(--primary);
+    padding: 10px 20px;
+    border-radius: 100px;
+    background: white;
+    top: -35px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  

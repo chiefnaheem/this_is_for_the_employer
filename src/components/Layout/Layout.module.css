@@ -1,0 +1,18 @@
+.main {
+    margin: 3rem auto;
+    width: 90%;
+
+}
+/* .general {
+    max-width: 40rem;
+    position: relative;
+    min-height: 100%; 
+} */
+.layout{
+    position: relative;
+    min-height: 100%;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+}

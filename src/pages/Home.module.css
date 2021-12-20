@@ -1,0 +1,22 @@
+.bg {
+    background: url("https://s3-us-east-2.amazonaws.com/the-riveter/wp-content/uploads/2019/09/25164306/9.25.19.woman_job_interview_getty_cropped.jpg")
+      no-repeat center;
+    background-size: cover;
+  }
+  .content {
+    padding-top: 160px;
+    padding-bottom: 160px;
+  }
+  .hero-content h1 {
+    padding-left: 40px;
+    width: 400px;
+  }
+  .welcome{
+     position: absolute;
+     top: 20rem;
+     /* line-height: 1.8; */
+  }
+  .guest {
+    line-height: 1.8;
+    letter-spacing: 2px;
+  }
